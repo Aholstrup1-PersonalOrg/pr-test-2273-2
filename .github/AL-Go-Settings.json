@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/OleWunschmann/AL-Go/enhance-customALGoFiles-feature/Actions/.Modules/settings.schema.json",
   "type": "PTE",
-  "templateUrl": "https://github.com/OleWunschmann/AL-Go@enhance-customALGoFiles-feature",
-  "templateSha": "ea2688ea21b5a7d1c209a12ba2cd8366ccdd82fe"
+  "templateUrl": "https://github.com/Aholstrup1-PersonalOrg/pr-test-2273-pte-template-2@template-scenario-13",
+  "templateSha": "4935b3f63d81988b0162956dd3b250399f7c5b61"
 }
