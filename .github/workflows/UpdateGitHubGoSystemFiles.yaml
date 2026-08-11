@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       templateUrl:
-        description: Template Repository URL (current is https://github.com/OleWunschmann/AL-Go@enhance-customALGoFiles-feature)
+        description: Template Repository URL (current is https://github.com/Aholstrup1-PersonalOrg/pr-test-2273-pte-template-2@template-scenario-9)
         required: false
         default: ''
       downloadLatest:
@@ -26,7 +26,7 @@ on:
         type: string
         required: true
       templateUrl:
-        description: Template Repository URL (current is https://github.com/OleWunschmann/AL-Go@enhance-customALGoFiles-feature)
+        description: Template Repository URL (current is https://github.com/Aholstrup1-PersonalOrg/pr-test-2273-pte-template-2@template-scenario-9)
         type: string
         required: false
         default: ''
